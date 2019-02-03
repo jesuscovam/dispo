@@ -12,3 +12,8 @@ the ./imgs/ directory
 crop:
 will crop all the png's file from the ./imgs/ directory
 to the actual size Pedro will need to read.
+
+
+modules needed:
+import PIL
+import pyautogui
